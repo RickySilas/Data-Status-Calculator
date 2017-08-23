@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Status Calculator", "Data Status Calculator\Data Status Calculator.csproj", "{EAA49840-A5B5-482F-982F-F8F28658C516}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Data Status Calculator Setup", "Setup\Data Status Calculator Setup\Data Status Calculator Setup.vdproj", "{21BA6C15-F9D9-4538-B63F-027348ADBB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA49840-A5B5-482F-982F-F8F28658C516}.Debug|x86.ActiveCfg = Debug|x86
+		{EAA49840-A5B5-482F-982F-F8F28658C516}.Debug|x86.Build.0 = Debug|x86
+		{EAA49840-A5B5-482F-982F-F8F28658C516}.Release|x86.ActiveCfg = Release|x86
+		{EAA49840-A5B5-482F-982F-F8F28658C516}.Release|x86.Build.0 = Release|x86
+		{21BA6C15-F9D9-4538-B63F-027348ADBB33}.Debug|x86.ActiveCfg = Debug
+		{21BA6C15-F9D9-4538-B63F-027348ADBB33}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+D:\Development\Data Status Calculator\Data Status Calculator\bin\Debug\Data Status Calculator.exe.config
+D:\Development\Data Status Calculator\Data Status Calculator\bin\Debug\Data Status Calculator.exe
+D:\Development\Data Status Calculator\Data Status Calculator\bin\Debug\Data Status Calculator.pdb
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.Properties.Resources.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data Status Calculator.exe
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data Status Calculator.pdb
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.DSCMain.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.LoginForm.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.GUI.rptTransactionsForm.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\RdlCompile.cache
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\RdlCompile.compiled
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.GUI.UsersForm.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.GUI.FormTypeForm.resources
+D:\Development\Data Status Calculator\Data Status Calculator\obj\x86\Debug\Data_Status_Calculator.GUI.ChangePasswordForm.resources
